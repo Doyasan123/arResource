@@ -1,0 +1,2 @@
+# arResource
+jsDeliver CDN
